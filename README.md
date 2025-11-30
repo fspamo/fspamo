@@ -1,8 +1,10 @@
-zsh
+```zsh
 > neofetch
+```
 
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
-csharp
+
+```csharp
 fspamo@github
 -------------------------
 OS: Void Linux
@@ -15,7 +17,7 @@ Languages: JavaScript, C,
 Learning: Node.js, C, C++, Python
 Hobbies: Reading, Music, Bikes
 Discord: fspamo
-
+```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-282828-282828?style=flat-square" height="25"/>
