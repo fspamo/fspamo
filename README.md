@@ -7,7 +7,7 @@
 ```csharp
 fspamo@github
 -------------------------
-OS: Void Linux
+OS: Void Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Istanbul/TR
