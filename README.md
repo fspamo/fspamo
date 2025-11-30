@@ -17,6 +17,8 @@ Languages: JavaScript, C,
 Learning: Node.js, C, C++, Python
 Hobbies: Reading, Music, Bikes
 Discord: fspamo
+
+
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
