@@ -18,11 +18,8 @@ Learning: Node.js, C, C++, Python
 Hobbies: Reading, Music, Bikes
 Discord: fspamo
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-282828-282828?style=flat-square" height="25"/>
-  <img src="https://img.shields.io/badge/-cc241d-cc241d?style=flat-square" height="25"/>
-  <img src="https://img.shields.io/badge/-d79921-d79921?style=flat-square" height="25"/>
-  <img src="https://img.shields.io/badge/-b8bb26-b8bb26?style=flat-square" height="25"/>
-  <img src="https://img.shields.io/badge/-83a598-83a598?style=flat-square" height="25"/>
-</p>
+<img alt="#282828" src="https://via.placeholder.com/15/282828/000000?text=+" width="25" height="20" />
+<img alt="#cc241d" src="https://via.placeholder.com/15/cc241d/000000?text=+" width="25" height="20" />
+<img alt="#d79921" src="https://via.placeholder.com/15/d79921/000000?text=+" width="25" height="20" />
+<img alt="#b8bb26" src="https://via.placeholder.com/15/b8bb26/000000?text=+" width="25" height="20" />
+<img alt="#83a598" src="https://via.placeholder.com/15/83a598/000000?text=+" width="25" height="20" />
