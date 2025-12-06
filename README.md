@@ -14,7 +14,7 @@ Location: Istanbul/TR
 Frameworks: .NET
 Languages: JavaScript, C,
            PHP, C#
-Learning: Node.js, C, C++, Python
+Learning: C, Python
 Hobbies: Reading, Music, Bikes
 Discord: fspamo
 
