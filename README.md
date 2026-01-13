@@ -15,7 +15,7 @@ Frameworks: .NET
 Languages: JavaScript, C,
            PHP, C#
 Learning: C, Python
-Hobbies: Reading, Music, Bikes
+Hobbies: Reading, Music, Bikes(those with the engine)
 Discord: fspamo
 
 
