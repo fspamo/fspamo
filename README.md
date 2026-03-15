@@ -7,7 +7,7 @@
 ```csharp
 fspamo@github
 -------------------------
-OS: Void Linux x86_64
+OS: Debian 13
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Istanbul/TR
@@ -15,8 +15,7 @@ Frameworks: .NET
 Languages: JavaScript, C,
            PHP, C#
 Learning: C, Python
-Hobbies: Reading, Music, Bikes(those with the engine)
-Discord: fspamo
+Hobbies: Doomgazing, Music, Bikes(those with the engine room room)
 
 
 ```
