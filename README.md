@@ -7,8 +7,6 @@
 ```csharp
 msalmonella@github
 -------------------------
-about_me: A computer programmer and 42 Ecole student who interested in
-                                                 graphics programming.
 OS: Debian 13 / Arch Linux
 Shell: zsh 5.8
 Pronouns: He/Him
